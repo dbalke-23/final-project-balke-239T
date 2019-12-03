@@ -12,11 +12,11 @@ To conduct my work, I used R, using multiple skills learned in class, including 
 
 # Files
 
-Output/Results
+Results
 
 1. Narrative.docx: Features the key outputs and visuals of my work in R, as well as comments and commentary on each step.
 2. Narrative.pdf: A PDF of 'Narrative.docx'
-3. 
+3. Presentation_Balke.pdf: This is a slide deck on the research project into which my final project fits, and key steps in the latter.
 
 Data: Please open these first as you view my work.
 
@@ -27,6 +27,10 @@ Data: Please open these first as you view my work.
 Code: Please open this after you load my data.
 
 1. analysis.R: The heart of my work, this is the code I used to load, subset, analyze, and produce visuals from my peace agreement data.
+
+Other
+
+1. PAT_notes.docx: These are notes from my initial coding of the full civil war peace agreement sample. They are raw and just for me.
 
 # More Information
 
